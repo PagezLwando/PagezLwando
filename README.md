@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Lwando, The Software Engineer.
-- 👀 I’m interested in programming, robotics, and AI.
-- 🌱 Currently learning ... Angular & Kotlin for Mobile Dev.
-- 📫 Reach me... @Linkedln https://www.linkedin.com/in/lwando-nodume-260005130/
+- 👋 Hi, I’m Lwando, A Software Engineer.
+- 🌱 Currently learning... AWS and MongoDB
+- 📫 @Linkedln https://www.linkedin.com/in/lwando-nodume-260005130/
 - TechStack: Angular framework, Java, Springboot framework, MongoDB, MySQL, Git, Github, Jira
 
 <!---

@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Lwando, A Software Engineer.
-- 🌱 Currently learning... AWS and MongoDB
-- 📫 @Linkedln https://www.linkedin.com/in/lwando-nodume-260005130/
-- TechStack: Angular framework, Java, Springboot framework, MongoDB, MySQL, Git, Github, Jira
+- 🌱 Currently learning... AWS and MongoDB.
+- 📫 @Linkedln https://www.linkedin.com/in/lwandonodume/
+- TechStack: Angular framework, Java, Springboot framework.
+- Databases: MSSQL, PostgreSQL, MongoDB, MySQL.
+- Management: Git, Github, Jira.
+- Cloud: AWS.
 
 <!---
 PagezLwando/PagezLwando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
